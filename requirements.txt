@@ -67,5 +67,5 @@ Theano==0.9.0
 Twisted==16.5.0
 urllib3==1.18
 w3lib==1.15.0
-Werkzeug==0.12.1
+Werkzeug==0.15.3
 zope.interface==4.3.2
