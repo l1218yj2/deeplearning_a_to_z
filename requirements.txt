@@ -11,7 +11,7 @@ constantly==15.1.0
 cryptography==1.5.2
 cssselect==1.0.0
 cycler==0.10.0
-Django==1.7
+Django==1.11.23
 django-csvimport==2.4
 enum34==1.1.6
 funcsigs==1.0.2
