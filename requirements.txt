@@ -54,7 +54,7 @@ scikit-learn==0.18.1
 scikits.statsmodels==0.3.1
 scipy==0.19.0
 scrapinghub==1.9.0
-Scrapy==1.2.1
+Scrapy==2.6.1
 scrapy-crawlera==1.1.0
 scrapy-proxies==0.3
 service-identity==16.0.0
