@@ -27,7 +27,7 @@ Keras==2.0.4
 lxml==3.6.4
 matplotlib==2.0.2
 mock==2.0.0
-numpy==1.12.1
+numpy==1.22.0
 olefile==0.44
 packaging==16.8
 pandas==0.20.2
