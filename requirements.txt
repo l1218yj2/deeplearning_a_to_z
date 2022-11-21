@@ -62,7 +62,7 @@ shub==2.4.2
 six==1.10.0
 sklearn==0.0
 subprocess32==3.2.7
-tensorflow-gpu==1.1.0
+tensorflow-gpu==2.9.3
 Theano==0.9.0
 Twisted==16.5.0
 urllib3==1.18
